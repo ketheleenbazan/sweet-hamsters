@@ -89,7 +89,7 @@ p {
 }
 
 .hamster-pics {
-    width: 250px;
-    height: 240px;
+    width: 240px;
+    height: 100%;
     border-radius: 50%;
 }
