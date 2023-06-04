@@ -20,6 +20,10 @@ h1, h2 {
     margin: 0 0 0 45px;
 }
 
+header {
+    height: 80px;
+}
+
 header > a {
     text-decoration: none;
     color: inherit;
@@ -49,7 +53,6 @@ header > a {
 }
 
 /* hamster logo picture - first section of the index page */
-
 #main-header {
     overflow: hidden;
     height: 530px;
