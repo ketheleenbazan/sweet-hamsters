@@ -54,100 +54,42 @@ header > a {
     overflow: hidden;
     height: 530px;
     width: 100%;
-  }
+}
 
 #main-hamster-image{
     height: 550px;
-    width: 100%;
+    width: 110%;
     background: url(../images/hamster-header.jpeg) no-repeat center center;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    background-color: black;
 }
 
 #title-main-content {
-    font-size: 230%;
+    font-size: 210%;
     padding: 80px;
     text-align: center;
 }
 
+/* mid section with hamsters pics and description */
 
-
-
-
-#main-content {
-    max-width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-#middle-structure {
-    width: 75%;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.left-image {
-    width: 400px;
-    height: 300px;
-    float: left;
+div.container {
+    display: flex;
     padding: 20px;
-    overflow: auto;
-    border-radius: 10%;
-    padding: 5px;
-
-    /* animates zoom effect on loading page  */
-    animation-name: hero-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
-
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+      
+p {
+    text-align:center;
+    width: 450px;
+    font-size: larger;
 }
 
-.right-image {
-    width: 300px;
-    height: 350px;
-    float: right;
-    padding: 20px;
-    overflow: auto;
-    border-radius: 10%;
-    padding: 5px;
-
-    /* animates zoom effect on loading page  */
-    animation-name: hero-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
-}
-
-/* creates the level of zoom for hero image  */
-@keyframes hero-zoom {
-    from {
-      transform: scale(0.8);
-    }
-    to {
-      transform: scale(1);
-    }
-  }
-
-.left-content {
-    width: 100%;
-    height: 350;
-    float: left;
-    padding: 20px;
-    text-align: left;
-    font-size: 150%;
-    clear:both;
-    margin-bottom: 50px;
-    
-}
-
-.right-content {
-    width: 100%;
-    height: 350px;
-    float: right;
-    padding: 5px;
-    text-align: right;
-    font-size: 150%;
-    clear:both;
-    margin-bottom: 50px;
-    
+.hamster-pics {
+    width: 250px;
+    height: 240px;
+    border-radius: 50%;
 }
