@@ -33,10 +33,16 @@ Users of this website will have access to essential information about hamster ca
 
 ![image](https://github.com/ketheleenbazan/sweet-hamsters/assets/75014452/d9c882ed-b5e7-4480-bca2-72159461f66c)
 
-- The Abous US section
+- The Abous Us section
   - This section provides a concise and straightforward overview of the project's main idea: to facilitate hamster adoption. It informs users that they are required to fill out a form to receive information about hamsters available for adoption and their availability status. By completing the form, users can access the necessary details to proceed with the adoption process and find their perfect hamster companion.
 
 ![image](https://github.com/ketheleenbazan/sweet-hamsters/assets/75014452/5e37ce1c-03af-4091-837b-ad875077497c)
+
+- The video in the Abous Us section
+  - A [video](https://www.youtube.com/watch?v=dpvhjIjNZdg&t=465s) has been added that provides detailed information about hamster care. The video is sourced from [Victoria Raechel's](https://www.youtube.com/@VictoriaRaechel) YouTube channel, and I am immensely grateful to her for sharing such valuable content about these adorable little creatures.
+
+![image](https://github.com/ketheleenbazan/sweet-hamsters/assets/75014452/78ce3548-bd4a-47fe-88d2-3b125778d447)
+
 
 - The Contact section
   - In this section, you will find a form that requests essential information from the user. The form includes fields for First Name, Last Name, Email, Phone Number, and an optional text area for any additional messages or inquiries the user may have. 
