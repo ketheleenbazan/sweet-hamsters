@@ -354,3 +354,26 @@ i:hover{
         margin: 0 auto;
     }
 } 
+
+@media screen and (max-width: 400px) { 
+    #nav-title{
+        display:contents;
+    }
+    #menu li {
+        font-size: medium;
+    }
+    #main-hamster-image {
+        height: 380px;
+        width: 200%;
+    }
+    #main-header {
+        height: 100%;
+        width: 100%;
+    }
+
+    /* about page main content */
+    #about-right-content {
+        height: initial;
+        letter-spacing: 2px;
+    }
+}
