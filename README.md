@@ -1,13 +1,31 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Adopt a Hamster
 
-Welcome,
+Welcome to Hamsters Haven, the ultimate platform for hamster adoption and a community of passionate hamster lovers.
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Our target audience includes anyone interested in welcoming a hamster into their life, whether they are experienced hamster owners or first-time pet adopters. By providing detailed profiles and descriptions of the hamsters available for adoption, we aim to match each hamster with the perfect home based on compatibility and the specific needs of both the hamster and the adopter.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+Users of this website will have access to essential information about hamster care, including the basics of caring for these adorable creatures. They will also find comprehensive resources explaining the reasons why adopting a hamster can be a wonderful choice for a pet. Additionally, users can easily request information regarding the adoption process or any other questions they may have about hamsters. Our website aims to provide a user-friendly platform where individuals can gather all the necessary information and support they need to make informed decisions about hamster adoption and care.
 
-## Codeanywhere Reminders
+![responsive-designs-sweet-hamsters](https://github.com/ketheleenbazan/sweet-hamsters/assets/75014452/d1f387fa-8488-40bf-afbd-b3db3b4761ca)
 
+## Features
+
+Markup : * Navigation
+              * At the top of the page, the navigation shows the name's page: Adopt a Hamster which has a link to always go to the main page.
+              * The other navigation links are to the right: Home, About Us and Contact Us which link to the respective pages.
+              * The title in the navigation bar uses the font Walter Turncoat black color in a white background and the links in the right side is using the Ubuntu font, also black color in a white background.
+              * The navigation explicity tells the user the name of the page and links to know about the project and a link to contact, where the information is easy to find.
+              
+![image](https://github.com/ketheleenbazan/sweet-hamsters/assets/75014452/d8aea65f-ac0e-4e03-b1eb-422de7ad3044)
+
+Markup : * The Header
+              * The header is concentrated with an image only which is a hamster to make a impact when entering the page no other contect was added to this section.
+              
+![image](https://github.com/ketheleenbazan/sweet-hamsters/assets/75014452/ade6589d-1ab8-4d61-beec-dfe33b9693c3)
+
+
+              
+              
 To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
 
 `python3 -m http.server`
