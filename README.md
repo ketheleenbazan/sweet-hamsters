@@ -84,6 +84,6 @@ No unfixed bugs
 
 ## Media
 
-- All the images in the website were taken from Pexels.
+- All the images in the website were taken from [Pexels](https://www.pexels.com/search/hamster/).
 
  
