@@ -65,7 +65,7 @@ Users of this website will have access to essential information about hamster ca
 - Acessibility
   - I confirmed that the colors and fonts chosen are easy to read and acessible by running it through lighthouse in devtools
  
-# space to insert the performance code 
+![image](https://github.com/ketheleenbazan/sweet-hamsters/assets/75014452/3ee85cbe-58c9-43b5-86ac-69b432719dd1)
  
 ## Unfixed Bugs
  
