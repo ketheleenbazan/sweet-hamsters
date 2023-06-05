@@ -87,7 +87,7 @@ div.container {
 p {
     text-align:center;
     width: 450px;
-    font-size: larger;
+    font-size:x-large;
 }
 
 .hamster-pics {
@@ -121,7 +121,12 @@ p {
     margin: 0 auto;
 }
 
-#about-right-content h1{
+#about-right-content a {
+    color: white;
+    font-weight: 700;
+}
+
+#about-right-content h2{
     text-align: center;
     margin: 0 auto;
 }
@@ -193,7 +198,7 @@ footer {
 }
   
 .social-media i {
-    font-size: 180%;
+    font-size: 30px;
     margin: 1%;
     padding: 4%;
     color: black;
@@ -213,7 +218,7 @@ i:hover{
     }
     
     .hamster-pics {
-        width: 340;
+        width: 340px;
         height: 100%;
         border-radius: 50%;
     }
@@ -308,7 +313,7 @@ i:hover{
     }
 
     .hamster-pics {
-        width: 340;
+        width: 340px;
         height: 100%;
         border-radius: 50%;
     }
@@ -355,12 +360,14 @@ i:hover{
     }
 } 
 
-@media screen and (max-width: 400px) { 
+@media screen and (max-width: 450px) { 
     #nav-title{
         display:contents;
     }
     #menu li {
         font-size: medium;
+        display: inline-block;
+        padding: 10px;
     }
     #main-hamster-image {
         height: 380px;
